@@ -1,0 +1,16 @@
+{
+  "name": "kunal-backend",
+  "version": "1.0.0",
+  "description": "Kunal is learning backend using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascripty",
+    "backend",
+    "letusdeliver"
+  ],
+  "author": "Kunal",
+  "license": "ISC"
+}
