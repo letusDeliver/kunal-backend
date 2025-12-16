@@ -352,6 +352,16 @@ const updateUserCoverImage = asyncHandler(async (req, res) => {
   }
 });
 
+//todos after learning mongodb
+
+// const getUserChannelProfile = asyncHandler(async (req, response) => {
+
+// })
+
+// const getWatchHistory = asyncHandler(async (req, res) => {
+
+// })
+
 export {
   registerUser,
   loginUser,
